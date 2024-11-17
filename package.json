@@ -1,0 +1,15 @@
+{
+  "name": "eqnexuspatcher",
+  "version": "1.0.0",
+  "description": "Patcher for EverQuest RoF2",
+  "main": "nexus.js",
+  "type": "module",
+  "scripts": {
+    "start": "node nexus.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "xxhash-wasm": "^1.0.2"
+  }
+}
