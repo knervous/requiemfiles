@@ -2,27 +2,11 @@
 # Set default behavior to automatically normalize line endings.
 ###############################################################################
 * text eol=crlf
-*.txt binary
-*.html binary
-*.emt binary
-*.eff binary
-*.xml binary
-*.dll binary
-*.s3d binary
-*.txc binary
-*.xmi binary
-*.eqg binary
-*.mp3 binary
-*.exe binary
-*.zon binary
-*.xml binary
-*.tga binary
-*.dds binary
-*.sh binary
-*.cur binary
-*.gitattributes binary
-*.ini binary
-*.pfs binary
+
+###############################################################################
+# Treat all files in the `rof` directory as binary.
+###############################################################################
+rof/** binary
 
 ###############################################################################
 # Set default behavior for command prompt diff.
