@@ -1,9 +1,9 @@
 {
     "shortName": "eqrequiem",
-    "longName": "Requiem",
+    "longName": "Requiem [DEV]",
     "customFilesUrl": "",
     "filesUrlPrefix": "https://raw.githubusercontent.com/knervous/requiemfiles/refs/heads/master/rof",
-    "version": "1.0",
+    "version": "0.1",
     "website": "https://www.eqrequiem.com",
     "description": "Requiem is a Classic+ Server focused on the core elements of early EQ while blending new mechanics like randomized, affixed loot and dynamic quests.",
     "hosts": [
