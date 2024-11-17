@@ -1,6 +1,6 @@
 # EQNexus Manifest File Repository
 
-This is where EQ Requiem stores its custom server files and creates its manifest for [EQ Nexus](https://github.com/knervous/requiemfiles)
+This is where EQ Requiem stores its custom server files and creates its manifest for [EQ Nexus](https://github.com/knervous/eqnexus)
 
 For any server operators wishing to opt in to EQ Nexus, fork this repo and add your own files. Every push to master will trigger a new release of `manifest.json`.
 
