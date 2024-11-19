@@ -22,6 +22,7 @@
     ],
     "options": {
         "restoreGammaOnCrash": false,
+        "disallowMq2": true,
         "disableMapWindow": true,
         "disableLuclinModels": true,
         "disabledBazaarWindow": false,
