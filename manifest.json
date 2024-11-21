@@ -12,6 +12,9 @@
     ],
     "required": [
     ],
+    "ignored": [
+        "qeynos2.emt"
+    ],
     "files": {
     }
 }
