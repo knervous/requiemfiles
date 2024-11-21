@@ -20,6 +20,9 @@
     "npcs": [
 
     ],
+    "ignored": [
+        "qeynos2.emt"
+    ],
     "options": {
         "disallowMq2": true,
         "disableMapWindow": true,
