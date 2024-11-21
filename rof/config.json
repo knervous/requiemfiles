@@ -21,22 +21,21 @@
 
     ],
     "options": {
-        "restoreGammaOnCrash": false,
         "disallowMq2": true,
         "disableMapWindow": true,
-        "disableLuclinModels": true,
+        "disableLuclinModels": false,
         "disabledBazaarWindow": false,
         "disableHeroic": true,
-        "disablePatchMe": false,
         "disableFoodDrinkSpam": false,
         "enableMaxHPFix": false,
-        "enableMQInjects": false,
-        "enableMQ2Prevention": false,
-        "enableSpellDataCRC": false,
+        "enableAnyClassShield": true,
         "enableCombatDamageDoubleAppliedFix": false,
-        "enableChecksumFix": false,
-        "enableOldModelHorseSupport": false,
-        "enableReportHardwareAddress": false,
-        "enableAllowIllegalAugments": false
+        "enableUltravision": true,
+        "enableOldModelHorseSupport": false
+    },
+    "iniOverrides": {
+        "eqclient.ini": {
+            "AllLuclinPcModelsOff": "TRUE"
+        }
     }
 }
