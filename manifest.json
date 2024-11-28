@@ -10,12 +10,12 @@
         "192.168.2.95",
         "eqrequiem.ddns.net"
     ],
-    "required": [
-    ],
+    "required": [],
     "ignored": [
         "qeynos2.emt"
     ],
-    "customFilesKey": "requiem_v1",
-    "files": {
+    "files": {},
+    "server": {
+        "customFilesKey": "requiem_v1"
     }
 }
