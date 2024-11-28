@@ -37,5 +37,8 @@
         "eqclient.ini": {
             "AllLuclinPcModelsOff": "TRUE"
         }
+    },
+    "server": {
+        "customFilesKey": "requiem_v1"
     }
 }
