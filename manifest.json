@@ -15,6 +15,7 @@
     "ignored": [
         "qeynos2.emt"
     ],
+    "customFilesKey": "requiem_v1",
     "files": {
     }
 }
